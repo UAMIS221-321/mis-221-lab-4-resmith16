@@ -43,6 +43,10 @@ static void GetFull( ){
     int num = rnd1.Next(3, 9);
 
     //Printing the Pattern
+
+    // int x = row
+    // int y = column
+
     int x, y;
     Console.Clear();
     for (x = 1; x <= num; x++){
